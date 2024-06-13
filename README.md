@@ -7,7 +7,6 @@ I'm a frontend developer.
 [<img align="left" alt="siemaroman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anzamarska&count_private=true" />
 
 [website]: https://zamarska.netlify.app/
 [instagram]: https://www.instagram.com/anna.zamarska/?hl=pl
